@@ -472,7 +472,7 @@ Desktop Styles
         max-height: 4.0625em;
         background-color: #E7E7E6;
         border-left: 1px solid #BABBBD;
-        width: 70%;
+        width: 100%;
     }
 
     .repo-list a:link,
