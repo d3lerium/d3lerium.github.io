@@ -37,16 +37,16 @@ navigation:
 - text: Governance
   url: example_page/
   internal: true
-- text: GA cloud governance Repo
-  url: https://github.com/d3lerium/
+- text: Geoscience Australia Intranet
+  url: http://intranet.ga.gov.au/
   internal: false
 
 # Repo list
 # List repos that you would like to appear on the homepage here
 repos:
-- name: GA
-  description: GA
-  url: https://github.com/d3lerium/
+- name: GA cloud Governance Repo
+  description: All the source doco you will ever need.
+  url: https://github.com/d3lerium/d3lerium.github.io/
 
 # Style Variables
 brand_color: "#2cb34a"
