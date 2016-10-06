@@ -405,3 +405,11 @@ table {
     border-spacing: 0;
     border: 1px solid #ddd;
 }
+
+td {
+    border: 1px solid #ddd;
+}
+
+th {
+    border: 1px solid #ddd;
+}
