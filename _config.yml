@@ -37,7 +37,7 @@ navigation:
 - text: Governance
   url: example_page/
   internal: true
-  - text: Cloud Security Mitigation
+- text: Cloud Security Mitigation
   url: security/
   internal: true
 - text: Geoscience Australia Intranet
