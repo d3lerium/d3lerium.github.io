@@ -21,8 +21,8 @@ baseurl: ''
 
 # Author/Organization info to be displayed in the templates
 author:
-  name: Name
-  url: http://localhost:4000
+  name: Geoscience Australia
+  url: http://intranet.ga.gov.au/
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
 logourl:
