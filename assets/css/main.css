@@ -224,7 +224,7 @@ Layout
 */
 
 .logo {
-    display: inline;
+    display: block;
 }
 
 .content {
@@ -432,7 +432,7 @@ Desktop Styles
     */
 
     .logo {
-        max-height: 10%;
+        max-width: 10%;
         padding-right: 20px;
         float: right;
     }
