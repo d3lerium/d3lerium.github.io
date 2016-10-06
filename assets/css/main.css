@@ -433,8 +433,8 @@ Desktop Styles
 
     .logo {
         max-height: 10%;
-        padding-left: 20px;
-        float: left;
+        padding-right: 20px;
+        float: right;
     }
 
     aside {
