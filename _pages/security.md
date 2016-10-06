@@ -1,6 +1,5 @@
 ---
-title: Cloud Computing Security for Cloud Service Providers
-layout: default-intro
+layout: page
 permalink: /security/
 ---
 
