@@ -3,7 +3,8 @@ layout: page
 permalink: /security/
 ---
 
-Cloud Computing Security for Cloud Service Providers
+<h2>Cloud Computing Security Mitigation</h2>
+
 
 | Risk                  | Mitigation reference number       | Mitigations
 | ---                   | ---                               | ---
