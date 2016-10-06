@@ -434,11 +434,11 @@ Desktop Styles
     .logo {
         max-width: 5%;
         padding-right: 20px;
-        float: right;
+        float: left;
     }
 
     aside {
-        width: 5%;
+        width: 30%;
         float: left;
     }
 
