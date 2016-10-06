@@ -1,3 +1,9 @@
+---
+title: Cloud Computing Security for Cloud Service Providers
+layout: default-intro
+permalink: /security/
+---
+
 Cloud Computing Security for Cloud Service Providers
 
 | Risk                  | Mitigation reference number       | Mitigations
