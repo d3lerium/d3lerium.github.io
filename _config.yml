@@ -35,16 +35,16 @@ navigation:
   url: ./
   internal: true
 - text: Seeds
-  url: example_page/
+  url: Seeds/
   internal: true
 - text: Trees
-  url: security/
+  url: Trees/
   internal: true
 - text: Shrubs
-  url: ''
+  url: 'Shrubs/'
   internal: True
 - text: Weeds
-  url: ''
+  url: 'Weeds/'
   internal: True
 
 # Repo list
