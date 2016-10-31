@@ -1,6 +1,5 @@
 ---
 layout: page
-pagetitle:  "Trees"
 permalink: /Trees/
 ---
 
