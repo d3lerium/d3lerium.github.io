@@ -9,8 +9,8 @@ collections:
     permalink: /:path/
 
 # Title
-name: GA Cloud Governance
-subtitle: GA Cloud Governance template
+name: The Seed Bank
+subtitle: Seeds, trees, shrubs and weeds.
 
 # When using this template with a project page set the baseurl to '/project-name'
 # For user/organization pages set this to an empty string
@@ -21,11 +21,11 @@ baseurl: ''
 
 # Author/Organization info to be displayed in the templates
 author:
-  name: Geoscience Australia
-  url: http://intranet.ga.gov.au/
+  name: Reeves
+  url: 
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
-logourl: 'http://www.ga.gov.au/__data/assets/image/0013/16510/ga-logo.jpg'
+logourl: 
 logoalt:
 
 # Navigation
@@ -34,20 +34,23 @@ navigation:
 - text: Home
   url: ./
   internal: true
-- text: Governance
+- text: Seeds
   url: example_page/
   internal: true
-- text: Cloud Security Mitigation
+- text: Trees
   url: security/
   internal: true
-- text: Geoscience Australia Intranet
-  url: http://intranet.ga.gov.au/
-  internal: false
+- text: Shrubs
+  url: ''
+  internal: True
+- text: Weeds
+  url: ''
+  internal: True
 
 # Repo list
 # List repos that you would like to appear on the homepage here
 repos:
-- name: GA cloud Governance Repo
+- name: STSW Repo
   description: Source file.
   url: https://github.com/d3lerium/d3lerium.github.io/
 
